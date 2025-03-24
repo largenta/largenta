@@ -19,7 +19,7 @@ My mission is to combine my practical experience in sales and administration wit
 ## 📚 Education and Training
 Course: Data Science
 
-Institutions: EBAC and Uninter (Yes, I’m doing both)
+Institutions: EBAC and Uninter 
 
 Status: Ongoing
 
