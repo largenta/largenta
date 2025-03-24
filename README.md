@@ -49,7 +49,7 @@ Advanced English
 
 * 🌍  I'm based in Brasília, Brazil
 * ✉️  You can contact me at [largenta1@hotmail.com](mailto:largenta1@hotmail.com)
-* 🚀  I'm currently freelancing for companies as Data Scientist and Python Back-end 
+* 🚀  I'm currently freelancing for companies as Data Scientist 
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love my family and playing video games 
 
